@@ -1,5 +1,11 @@
 .exchange-all {
     margin-left: 100px;
+    padding-top: 100px;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
 }
 
 .header__list {
